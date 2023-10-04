@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PageTwo.unity
     guid: a1c4f6e62b4b3e448b9284268115c616
   - enabled: 1
+    path: Assets/Scenes/PageThree.unity
+    guid: d49a0e3f7767ff64d83d56f3139a8cc6
+  - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: f91f63d0c143665448483492d4d37278
   m_configObjects: {}
